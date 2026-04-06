@@ -1,4 +1,4 @@
-# ¡Hola! Soy Bryan Charlotte Núñez Gómez 👋 (`Charlotte-Developer`)
+[# ¡Hola! Soy Bryan Charlotte Núñez Gómez 👋 (`Charlotte-Developer`)
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ2VudGlmeSZjdD1n/3o7TKSjPInL6Y/giphy.gif" width="600" alt="Software Engineering GIF">
@@ -54,3 +54,4 @@ Poseo conocimientos sólidos en estándares de documentación y pruebas, garanti
 
 ### 📫 Conectemos
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN_AQUÍ)
+](https://www.linkedin.com/in/charlotte-developer/)
