@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Banner de Charlotte-Developer">
+</p>
+
 # 👋 Hola, soy Charlotte (`Charlotte-Developer`)
 
 <p align="center">
