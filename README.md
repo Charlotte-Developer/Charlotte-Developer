@@ -90,11 +90,11 @@ https://drive.google.com/drive/folders/1b2IAtSrTSVtdoGSG9i6Vl8_7ESX9J4wQ?usp=sha
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charlotte-Developer&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Charlotte-Developer&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlotte-Developer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Charlotte-Developer&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
