@@ -2,7 +2,7 @@
   <img src="banner.png" width="100%" alt="Banner de Charlotte-Developer">
 </p>
 
-# 👋 Hola, soy Charlotte (`Charlotte-Developer`)
+# 👋 Hola
 
 <p align="center">
   🚀 Desarrollo Web | 📱 Apps Multiplataforma | 🧠 Arquitectura de Software
@@ -89,13 +89,12 @@ https://drive.google.com/drive/folders/1b2IAtSrTSVtdoGSG9i6Vl8_7ESX9J4wQ?usp=sha
 [![Email](https://img.shields.io/badge/Email-charlotte.dev%40proton.me-6D4AFF?style=for-the-badge\&logo=protonmail\&logoColor=white)](mailto:charlotte.dev@proton.me)
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charlotte-Developer&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Charlotte-Developer&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlotte-Developer&layout=compact&theme=tokyonight" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlotte-Developer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 <p align="center">
