@@ -60,22 +60,23 @@ Sistema orientado a la gestión de stock, ventas y control de productos.
 
 Aplicación web para la gestión de catálogo, préstamos y usuarios.
 
-🔗 [Visitar Sitio](TU_LINK_DE_WEB_AQUÍ)
+🔗 https://sistema-bibliotecario-six.vercel.app/home
+
 
 <p align="center">
-  <img src="AQUI_IMAGEN_O_GIF_BIBLIOTECA" width="500">
+  <img src="e.png" width="500">
 </p>
 
 ---
 
 📑 *Documentación detallada y certificaciones (Cisco & UTT) disponibles en mi portafolio digital:*
-👉 AQUI_TU_LINK_DE_DRIVE
+https://drive.google.com/drive/folders/1b2IAtSrTSVtdoGSG9i6Vl8_7ESX9J4wQ?usp=sharing
 
 ---
 
 ### 🧠 Soft Skills & Estrategia
 
-* 🧩 Pensamiento estratégico (Ajedrez ~1000 ELO)
+* 🧩 Pensamiento estratégico
 * 🤝 Trabajo en equipo y colaboración
 * 📈 Disciplina y aprendizaje continuo
 * 🌍 Idiomas: Español (Nativo), Inglés (A2), Japonés (Básico)
@@ -92,6 +93,11 @@ Aplicación web para la gestión de catálogo, préstamos y usuarios.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Charlotte-Developer&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlotte-Developer&layout=compact&theme=tokyonight" alt="Top Langs">
+</p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/DbXSzkKLzy96e3uukf/giphy.gif" width="600" alt="Code Render GIF by Endangered Labs">
 </p>
