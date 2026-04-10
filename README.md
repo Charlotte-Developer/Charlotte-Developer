@@ -92,3 +92,6 @@ Aplicación web para la gestión de catálogo, préstamos y usuarios.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Charlotte-Developer&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/DbXSzkKLzy96e3uukf/giphy.gif" width="600" alt="Code Render GIF by Endangered Labs">
+</p>
