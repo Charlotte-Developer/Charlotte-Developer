@@ -84,7 +84,7 @@ https://drive.google.com/drive/folders/1b2IAtSrTSVtdoGSG9i6Vl8_7ESX9J4wQ?usp=sha
 ---
 <p align="center">
   <a href="https://drive.proton.me/urls/Y16KRKMNKR#TS8nQ9M8rOpy">
-    <img src="https://img.shields.io/badge/ACCEDER_CV_PROFESIONAL-121011?style=for-the-badge&logo=protondrive&logoColor=6D4AFF&labelColor=1A1A1A" alt="Curriculum Vitae Charlotte-Developer" />
+    <img src="https://img.shields.io/badge/ACCEDER_CV_PROFESIONAL-121011?style=for-the-badge&logo=protondrive&logoColor=6D4AFF&labelColor=1A1A1A" width="350" alt="Curriculum Vitae Charlotte-Developer" />
   </a>
 </p>
 
