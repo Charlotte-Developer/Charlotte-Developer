@@ -50,10 +50,6 @@ Sistema orientado a la gestión de stock, ventas y control de productos.
 
 https://drive.google.com/drive/folders/1pt5rdwlgEJdAtQdCdya79agKD9KMFKvF?usp=sharing
 
-<p align="center">
-  <img src="AQUI_TU_GIF_INVENTARIO" width="500">
-</p>
-
 ---
 
 #### 📚 Sistema Web Bibliotecario
